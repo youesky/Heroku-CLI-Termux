@@ -18,6 +18,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/youesky/Heroku-CLI-Termux/
 
 ### Credits:
 
-* [![EBIZA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/Ebiza)
+* [![EBIZA](https://img.shields.io/static/v1?label=TEAM&message=EBIZA&color=yellow)](https://t.me/Ebiza)
 
 * [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://github.com/SKGHD/Termux-heroku-cli)
