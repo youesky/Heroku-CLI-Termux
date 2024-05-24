@@ -11,13 +11,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/youesky/Heroku-CLI-Termux/
 ```
 
 ## Getting started:
-1. Login using ```heroku login -i```
+1. Login using ```heroku login``` or ```heroku login -i```
 2. Create app using ```heroku create <app name>```
 3. For a list of commands available ```heroku help```
-4. For more info visit : https://devcenter.heroku.com/articles/using-the-cli
+4. CLI commands : https://devcenter.heroku.com/articles/heroku-cli-commands
+5. For more info visit : https://devcenter.heroku.com/articles/using-the-cli
 
 ### Credits:
 
-* [![EBIZA](https://img.shields.io/static/v1?label=TEAM&message=EBIZA&color=yellow)](https://t.me/Ebiza)
+* [![EBIZA](https://img.shields.io/static/v1?label=TEAM&message=EBIZA&color=yellow)](https://telegram.dog/Ebiza)
 
 * [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://github.com/SKGHD/Termux-heroku-cli)
